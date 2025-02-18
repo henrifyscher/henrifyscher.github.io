@@ -4,7 +4,9 @@ permalink: /aboutme
 Test messages
 
 # About Me
-What are the newest advancements in tech? And what does that mean for the market and its participants? Those were the questions trapped in my head since high school and they are the ones driving me everyday.
+What are the newest advancements in tech? 
+And what does that mean for the market and its participants? 
+Those were the questions trapped in my head since high school and they are the ones driving me everyday.
 Hi there, I am Henry, and inspired by those questions, I decided to leave my lovely hometown in the Hunsrück region to study and work in tech.
 
 
@@ -21,7 +23,12 @@ Here are some of my favorite projects:
 
 ## Resume
 ### Working experience
-09|24 - 04|25 **Intern | ADAS @ Porsche Engineering** Los Angeles, USA
+09|24 - 04|25
+**Intern | ADAS @ Porsche Engineering** Los Angeles, USA
+- First employee of the local ADAS department, helping secure major projects
+- Responsible for Routeplanning for an external customer's validation run
+- Automation of routeplanning for following validation runs with graph theory
+- Starting a software development project and instructed a team on this
 
 ## 📫 Contact
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
