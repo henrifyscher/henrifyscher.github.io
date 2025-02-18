@@ -23,7 +23,7 @@ Here are some of my favorite projects:
 
 ## Resume
 ### Working experience
-09|24 - 04|25\n
+09|24 - 04|25<br>
 **Intern | ADAS @ Porsche Engineering** Los Angeles, USA
 - First employee of the local ADAS department, helping secure major projects
 - Responsible for Routeplanning for an external customer's validation run
