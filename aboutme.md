@@ -2,7 +2,7 @@
 What are the newest advancements in tech?<br>
 And what does that mean for the market and its participants?<br>
 Those were the questions trapped in my head since high school and they are the ones driving me everyday.<br>
-Hi there, I am Henry, and inspired by those questions, I decided to leave my lovely hometown in the Hunsrück region to study and work in tech.
+Hi there, I am Henry, and inspired by those questions, I decided to leave my lovely hometown in the Hunsrück region to study and work in tech. Growing up in a rural area, I suddenly felt a new kind of freedom when I was able to drive a car. It is this feeling that pushed me into researching and working on Automated Driving, a field that holds the promise of independent mobility for those that can not drive a car (yet).
 
 
 ## 🔧 Skills & Technologies
@@ -32,6 +32,5 @@ Here are some of my favorite projects:
 - xyz
 
 ## 📫 Contact
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/henryfischer1)
 - Email: henryfismar@gmail.com
