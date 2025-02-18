@@ -23,7 +23,7 @@ Here are some of my favorite projects:
 
 ## Resume
 ### Working experience
-09|24 - 04|25
+09|24 - 04|25\n
 **Intern | ADAS @ Porsche Engineering** Los Angeles, USA
 - First employee of the local ADAS department, helping secure major projects
 - Responsible for Routeplanning for an external customer's validation run
@@ -34,6 +34,7 @@ Here are some of my favorite projects:
 10|18 - 10|22
 ** B. Sc. Mechanical Engineering & Business Admin.** Aachen, Germany
 - Specialization in Automotive Engineering
+- 
 
 ## 📫 Contact
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
