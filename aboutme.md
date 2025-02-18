@@ -1,12 +1,7 @@
-layout: page
-title: "About Me"
-permalink: /aboutme
-Test messages
-
 # About Me
-What are the newest advancements in tech? 
-And what does that mean for the market and its participants? 
-Those were the questions trapped in my head since high school and they are the ones driving me everyday.
+What are the newest advancements in tech?<br>
+And what does that mean for the market and its participants?<br>
+Those were the questions trapped in my head since high school and they are the ones driving me everyday.<br>
 Hi there, I am Henry, and inspired by those questions, I decided to leave my lovely hometown in the Hunsrück region to study and work in tech.
 
 
