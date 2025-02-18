@@ -32,7 +32,7 @@ Here are some of my favorite projects:
 
 ### Education
 10|18 - 10|22
-** B. Sc. Mechanical Engineering & Business Admin.** Aachen, Germany
+**B. Sc. Mechanical Engineering & Business Admin** Aachen, Germany
 - Specialization in Automotive Engineering
 - xyz
 
