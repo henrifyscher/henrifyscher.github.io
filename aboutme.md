@@ -4,22 +4,24 @@ permalink: /aboutme
 Test messages
 
 # About Me
+What are the newest advancements in tech? And what does that mean for the market and its participants? Those were the questions trapped in my head since high school and they are the ones driving me everyday.
+Hi there, I am Henry, and inspired by those questions, I decided to leave my lovely hometown in the Hunsrück region to study and work in tech.
 
-Hi there, I am Henry.
-
-
-I'm passionate about Engineering. Currently, I'm studying at RWTH Aachen and working at Porsche. I enjoy solving complex problems, optimizing processes, and building innovative applications.
 
 ## 🔧 Skills & Technologies
-- **Programming:** Python, JavaScript, C++
-- **Data Science:** Pandas, NumPy, OpenStreetMap (OSM)
-- **Other:** Docker, Jupyter Notebooks
+- **Programming:** Python, C++, Java
+- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX
+- **Other:** ROS, Docker, Jupyter Notebooks
 
 ## 🚀 Projects
 Here are some of my favorite projects:
 - [Project 1](#) - Kurzbeschreibung des Projekts
 - [Project 2](#) - Kurzbeschreibung des Projekts
 - [Mehr Projekte](projects.html)
+
+## Resume
+### Working experience
+09|24 - 04|25 **Intern | ADAS @ Porsche Engineering** Los Angeles, USA
 
 ## 📫 Contact
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
