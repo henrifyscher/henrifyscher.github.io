@@ -30,6 +30,11 @@ Here are some of my favorite projects:
 - Automation of routeplanning for following validation runs with graph theory
 - Starting a software development project and instructed a team on this
 
+### Education
+10|18 - 10|22
+Mechanical Engineering & Business Admin Aachen, Germany
+- 
+
 ## 📫 Contact
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 - LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
