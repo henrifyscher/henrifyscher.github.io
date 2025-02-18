@@ -34,7 +34,7 @@ Here are some of my favorite projects:
 10|18 - 10|22
 ** B. Sc. Mechanical Engineering & Business Admin.** Aachen, Germany
 - Specialization in Automotive Engineering
-- 
+- xyz
 
 ## 📫 Contact
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
