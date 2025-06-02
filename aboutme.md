@@ -18,8 +18,13 @@ Here are some of my favorite projects:
 
 ## Resume
 ### Working experience
+05|25 - 11| 25<br>
+**Master Thesis | AI @ Porsche Engineering** Bietigheim-Bissingen 🇩🇪
+- AI-based feature extraction of road networks from aerial imagery
+- 
+
 09|24 - 04|25<br>
-**Intern | ADAS @ Porsche Engineering** Los Angeles, USA
+**Intern | ADAS @ Porsche Engineering** Los Angeles 🇺🇸
 - First employee of the local ADAS department, helping secure major projects
 - Responsible for Routeplanning for an external customer's validation run
 - Automation of routeplanning for following validation runs with graph theory
@@ -30,6 +35,13 @@ Here are some of my favorite projects:
 **B. Sc. Mechanical Engineering & Business Admin** Aachen, Germany
 - Specialization in Automotive Engineering
 - xyz
+
+### Languages
+🇩🇪 Native
+🇪🇸 Native (bilingual upbringing)
+🇬🇧 Proficient
+🇫🇷 Advanced
+🇬🇷 Basics
 
 ## 📫 Contact
 - LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/henryfischer1)
