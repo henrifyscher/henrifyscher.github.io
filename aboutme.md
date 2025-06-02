@@ -27,18 +27,29 @@ Here are some of my favorite projects:
 **Intern | ADAS @ Porsche Engineering**<br>
 🇺🇸 Los Angeles
 - First employee of the local ADAS department, helping secure major projects
-- Responsible for Routeplanning for an external customer's validation run
+- Responsible for Routeplanning for an external customer from Silicon Valley
 - Automation of routeplanning for following validation runs with graph theory
 - Starting a software development project and instructed a team on this
 
 10|24 - 09|24<br>
 **Student Research Assistant | Automated Driving @ RWTH**<br>
-🇩🇪 Bietigheim-Bissingen
+🇩🇪 Aachen
 - AI-based feature extraction of road networks from aerial imagery
 
 ### Education
+04|23 - 11|25<br>
+**M. Sc. Mechanical Engineering & Business Admin**<br>
+🇩🇪 RWTH Aachen
+- Focusing on Automated Driving + Innovation, Marketing and Entrepreneurship
+
+01|23 - 05|23<br>
+**Semester Abroad**<br>
+🇨🇾 University of Cyprus
+- 🇪🇺 Erasmus Programme
+
 10|18 - 10|22<br>
-**B. Sc. Mechanical Engineering & Business Admin** Aachen, Germany
+**B. Sc. Mechanical Engineering & Business Admin**<br>
+🇩🇪 RWTH Aachen
 - Specialization in Automotive Engineering
 
 ### Languages
