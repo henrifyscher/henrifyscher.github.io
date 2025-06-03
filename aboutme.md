@@ -1,94 +1,85 @@
-# About Me
-What are the newest advancements in tech?<br>
-And what does that mean for the market and its participants?<br>
-Those were the questions trapped in my head since high school and they are the ones driving me everyday.<br>
-Hi there, I am Henry, and inspired by those questions, I decided to leave my lovely hometown in the Hunsrück region to study and work in tech. Growing up in a rural area, I suddenly felt a new kind of freedom when I was able to drive a car. It is this feeling that pushed me into researching and working on Automated Driving, a field that holds the promise of independent mobility for those that can not drive a car themselves (yet).
+# 👋 About Me
 
+What are the newest advancements in tech?  
+And what does that mean for the market and its participants?  
+Those questions have fascinated me since high school and continue to drive me today.
+
+Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the Hunsrück region to study and work in tech. Growing up in a rural area, I felt a new kind of freedom when I first drove a car. That feeling led me to work on Automated Driving — enabling independent mobility for everyone.
+
+<hr style="margin: 1.5em 0;">
 
 ## 🔧 Skills & Technologies
-- **Programming:** Python, C++, Java
-- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX
-- **Simulation:** MATLAB, Unreal Engine, CARLA
-- **Other:** ROS, Docker, Jupyter Notebooks
+
+- **Programming:** Python, C++, Java  
+- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX  
+- **Simulation:** MATLAB, Unreal Engine, CARLA  
+- **Tools:** ROS, Docker, Jupyter Notebooks  
+
+<hr style="margin: 1.5em 0;">
 
 ## 🚀 Projects
+
 Latest projects I contributed to:
-- **ROME** - Routing Engine handling points sampled from roads
-- **HOUSTON** - Test Drive Control Center incorporating the ROME Routing Engine
-- **Digital Campus Melaten** - Digital Twin Model of RWTH Aachen's research campus
 
-## Resume
-### Working experience
-05|25 - 11|25<br>
-🇩🇪 Bietigheim-Bissingen<br>
-**Master Thesis | AI @ Porsche Engineering**
-- AI-based feature extraction of road networks from aerial imagery
-<br>
+- **ROME** – Routing Engine handling points sampled from roads  
+- **HOUSTON** – Test Drive Control Center incorporating the ROME Routing Engine  
+- **Digital Campus Melaten** – Digital Twin Model of RWTH Aachen's research campus  
 
-09|24 - 04|25<br>
-🇺🇸 Los Angeles<br>
-**Intern | ADAS @ Porsche Engineering**
-- First employee of the local ADAS department, helping secure major projects
-- Responsible for Routeplanning for an external customer's validation run from Silicon Valley
-- Automation of routeplanning for following validation runs with graph theory and Machine Learning
-- Starting a software development project and instructed a team on this
-- Python, OSMNX
-<br>
+<hr style="margin: 1.5em 0;">
 
-10|24 - 09|24<br>
-🇩🇪 Aachen<br>
-**Student Research Assistant | Automated Driving @ RWTH**
-- Building a digital twin of the campus
-- Unreal Engine, CARLA and C++
-<br>
+## 💼 Resume
 
-05|25 - 11|25<br>
-🇩🇪 Bietigheim-Bissingen<br>
-**Bachelor Thesis | ADAS Simulation @ Porsche Engineering**
-- Developed an algorithm for procedural generation of 3D simulation environments
-- MATLAB, Houdini, Unreal Engine
-<br>
+### 🛠️ Working Experience
 
-### Education
-04|23 - 11|25<br>
-🇩🇪 RWTH Aachen<br>
-**M. Sc. Mechanical Engineering & Business Administration**
-- Focusing on Automated Driving + Innovation, Marketing and Entrepreneurship
-<br>
+**05/25 – 11/25** 🇩🇪 Bietigheim-Bissingen  
+**Master Thesis | AI @ Porsche Engineering**  
+- AI-based feature extraction of road networks from aerial imagery  
 
-01|23 - 05|23<br>
-🇨🇾 University of Cyprus<br>
-**Semester Abroad**
-- 🇪🇺 Erasmus Programme
-- AI Entrepreneurship
-- Greek Language Course
-<br>
+**09/24 – 04/25** 🇺🇸 Los Angeles  
+**Intern | ADAS @ Porsche Engineering**  
+- First employee of the local ADAS department, helping secure major projects  
+- Route planning for validation runs from Silicon Valley  
+- Automation of route planning using graph theory and machine learning  
+- Team lead on new software development project  
+- Tools: Python, OSMNX  
 
-10|18 - 10|22<br>
-🇩🇪 RWTH Aachen<br>
-**B. Sc. Mechanical Engineering & Business Administration**
-- Specialization in Automotive Engineering
-<br>
+**10/23 – 09/24** 🇩🇪 Aachen  
+**Student Research Assistant | Automated Driving @ RWTH**  
+- Building a digital twin of the RWTH campus  
+- Tools: Unreal Engine, CARLA, C++  
 
-### 🔧 Skills & Technologies
-- **Programming:** Python, C++, Java
-- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX
-- **Simulation:** MATLAB, Unreal Engine, CARLA
-- **Other:** ROS, Docker, Jupyter Notebooks
+**04/22 – 10/22** 🇩🇪 Bietigheim-Bissingen  
+**Bachelor Thesis | ADAS Simulation @ Porsche Engineering**  
+- Procedural generation of 3D simulation environments  
+- Tools: MATLAB, Houdini, Unreal Engine  
 
-### 🚀 Projects
-Latest projects I contributed to:
-- **ROME** - Routing Engine handling points sampled from roads
-- **HOUSTON** - Test Drive Control Center incorporating the ROME Routing Engine
-- **Digital Campus Melaten** - Digital Twin Model of RWTH Aachen's research campus
+### 🎓 Education
 
-### Languages
-🇩🇪 Native<br>
-🇪🇸 Native (bilingual upbringing)<br>
-🇬🇧 Proficient<br>
-🇫🇷 Advanced<br>
-🇬🇷 Basics<br>
+**04/23 – 11/25** 🇩🇪 RWTH Aachen  
+**M. Sc. Mechanical Engineering & Business Administration**  
+- Focus: Automated Driving + Innovation, Marketing & Entrepreneurship  
+
+**01/23 – 05/23** 🇨🇾 University of Cyprus  
+**Semester Abroad** – Erasmus Programme  
+- AI Entrepreneurship, Greek Language  
+
+**10/18 – 10/22** 🇩🇪 RWTH Aachen  
+**B. Sc. Mechanical Engineering & Business Administration**  
+- Specialization in Automotive Engineering  
+
+<hr style="margin: 1.5em 0;">
+
+## 🌍 Languages
+
+- 🇩🇪 German – Native  
+- 🇪🇸 Spanish – Native (bilingual upbringing)  
+- 🇬🇧 English – Proficient  
+- 🇫🇷 French – Advanced  
+- 🇬🇷 Greek – Basics  
+
+<hr style="margin: 1.5em 0;">
 
 ## 📫 Contact
-- LinkedIn: [Henry Fischer](https://linkedin.com/in/henryfischer1)
-- Email: henryfismar@gmail.com
+
+- 📇 [LinkedIn – Henry Fischer](https://linkedin.com/in/henryfischer1)  
+- 📧 henryfismar@gmail.com
