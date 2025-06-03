@@ -38,8 +38,13 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 **04/22 – 10/22** 🇩🇪 Bietigheim-Bissingen  
 **Bachelor Thesis | ADAS Simulation @ Porsche Engineering**  
 - Procedural generation of 3D simulation environments  
-- Tools: MATLAB, Houdini, Unreal Engine  
+- Tools: MATLAB, Houdini, Unreal Engine
 
+**03/21 – 08/21** 🇩🇪 Leipzig
+**Intern | Quality Inspection @ Porsche**  
+- Supported the pre-series quality inspection team at Porsche's Leipzig plant
+- Used metrology to assess quality
+- Suggested counter-measures for parts that did not meet Porsche's quality standards
 <hr style="margin: 1.5em 0;">
 
 ### Education
@@ -74,11 +79,12 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 
 ## 🚀 Projects
 
-Latest projects I contributed to:
+Some of my favorite projects:
 
 - **ROME** – Routing Engine handling points sampled from roads  
-- **HOUSTON** – Test Drive Control Center incorporating the ROME Routing Engine  
-- **Digital Campus Melaten** – Digital Twin Model of RWTH Aachen's research campus  
+- **HOUSTON** – Test Drive Control Center incorporating the ROME Routing Engine 
+- **Digital Campus Melaten** – Digital Twin Model of RWTH Aachen's research campus
+- **Macan electric** - Pre-series quality inspection for the first all-electric version of Porsche's best-selling SUV
 
 ## 🔧 Skills & Technologies
 
