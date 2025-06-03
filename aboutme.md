@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 
 What are the newest advancements in tech?  
 And what does that mean for the market and its participants?  
@@ -8,13 +8,15 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 
 <hr style="margin: 1.5em 0;">
 
-## 💼 Resume
+## Resume
 
-### 🛠️ Working Experience
+### Working Experience
 
 **05/25 – 11/25** 🇩🇪 Bietigheim-Bissingen  
 **Master Thesis | AI @ Porsche Engineering**  
 - AI-based feature extraction of road networks from aerial imagery  
+
+<br>
 
 **09/24 – 04/25** 🇺🇸 Los Angeles  
 **Intern | ADAS @ Porsche Engineering**  
@@ -24,31 +26,43 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 - Team lead on new software development project  
 - Tools: Python, OSMNX  
 
+<br>
+
 **10/23 – 09/24** 🇩🇪 Aachen  
 **Student Research Assistant | Automated Driving @ RWTH**  
 - Building a digital twin of the RWTH campus  
 - Tools: Unreal Engine, CARLA, C++  
+
+<br>
 
 **04/22 – 10/22** 🇩🇪 Bietigheim-Bissingen  
 **Bachelor Thesis | ADAS Simulation @ Porsche Engineering**  
 - Procedural generation of 3D simulation environments  
 - Tools: MATLAB, Houdini, Unreal Engine  
 
-### 🎓 Education
+<hr style="margin: 1.5em 0;">
+
+### Education
 
 **04/23 – 11/25** 🇩🇪 RWTH Aachen  
 **M. Sc. Mechanical Engineering & Business Administration**  
 - Focus: Automated Driving + Innovation, Marketing & Entrepreneurship  
 
+<br>
+
 **01/23 – 05/23** 🇨🇾 University of Cyprus  
 **Semester Abroad** – Erasmus Programme  
 - AI Entrepreneurship, Greek Language  
+
+<br>
 
 **10/18 – 10/22** 🇩🇪 RWTH Aachen  
 **B. Sc. Mechanical Engineering & Business Administration**  
 - Specialization in Automotive Engineering  
 
-### 🌍 Languages
+<hr style="margin: 1.5em 0;">
+
+## 🌍 Languages
 
 - 🇩🇪 German – Native  
 - 🇪🇸 Spanish – Native (bilingual upbringing)  
