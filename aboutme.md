@@ -40,6 +40,8 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 - Procedural generation of 3D simulation environments  
 - Tools: MATLAB, Houdini, Unreal Engine
 
+<br>
+
 **03/21 – 08/21** 🇩🇪 Leipzig
 **Intern | Quality Inspection @ Porsche**  
 - Supported the pre-series quality inspection team at Porsche's Leipzig plant
