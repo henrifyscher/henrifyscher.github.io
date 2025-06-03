@@ -19,37 +19,45 @@ Here are some of my favorite projects:
 ## Resume
 ### Working experience
 05|25 - 11|25<br>
-🇩🇪 Bietigheim-Bissingen
-**Master Thesis | AI @ Porsche Engineering**<br>
+🇩🇪 Bietigheim-Bissingen<br>
+**Master Thesis | AI @ Porsche Engineering**
 - AI-based feature extraction of road networks from aerial imagery
 
 09|24 - 04|25<br>
-🇺🇸 Los Angeles
-**Intern | ADAS @ Porsche Engineering**<br>
+🇺🇸 Los Angeles<br>
+**Intern | ADAS @ Porsche Engineering**
 - First employee of the local ADAS department, helping secure major projects
 - Responsible for Routeplanning for an external customer from Silicon Valley
 - Automation of routeplanning for following validation runs with graph theory
 - Starting a software development project and instructed a team on this
 
 10|24 - 09|24<br>
-🇩🇪 Aachen
-**Student Research Assistant | Automated Driving @ RWTH**<br>
-- AI-based feature extraction of road networks from aerial imagery
+🇩🇪 Aachen<br>
+**Student Research Assistant | Automated Driving @ RWTH**
+- Building a digital twin of the campus
+- Unreal Engine, CARLA and C++
+
+05|25 - 11|25<br>
+🇩🇪 Bietigheim-Bissingen<br>
+**Bachelor Thesis | ADAS Simulation @ Porsche Engineering**
+- Developed an algorithm 
 
 ### Education
 04|23 - 11|25<br>
-🇩🇪 RWTH Aachen
-**M. Sc. Mechanical Engineering & Business Admin**<br>
+🇩🇪 RWTH Aachen<br>
+**M. Sc. Mechanical Engineering & Business Admin**
 - Focusing on Automated Driving + Innovation, Marketing and Entrepreneurship
 
 01|23 - 05|23<br>
-🇨🇾 University of Cyprus
-**Semester Abroad**<br>
+🇨🇾 University of Cyprus<br>
+**Semester Abroad**
+- AI Entrepreneurship
+- Greek Language Course
 - 🇪🇺 Erasmus Programme
 
 10|18 - 10|22<br>
-🇩🇪 RWTH Aachen
-**B. Sc. Mechanical Engineering & Business Admin**<br>
+🇩🇪 RWTH Aachen<br>
+**B. Sc. Mechanical Engineering & Business Admin**
 - Specialization in Automotive Engineering
 
 ### Languages
@@ -60,5 +68,5 @@ Here are some of my favorite projects:
 🇬🇷 Basics<br>
 
 ## 📫 Contact
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/henryfischer1)
+- LinkedIn: [Henry Fischer](https://linkedin.com/in/henryfischer1)
 - Email: henryfismar@gmail.com
