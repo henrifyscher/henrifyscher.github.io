@@ -12,7 +12,7 @@ Hi there, I am Henry, and inspired by those questions, I decided to leave my lov
 - **Other:** ROS, Docker, Jupyter Notebooks
 
 ## 🚀 Projects
-Here are some of my favorite projects:
+Latest projects I contributed to:
 - **ROME** - Routing Engine handling points sampled from roads
 - **HOUSTON** - Test Drive Control Center incorporating the ROME Routing Engine
 - **Digital Campus Melaten** - Digital Twin Model of RWTH Aachen's research campus
@@ -69,6 +69,18 @@ Here are some of my favorite projects:
 **B. Sc. Mechanical Engineering & Business Administration**
 - Specialization in Automotive Engineering
 <br>
+
+### 🔧 Skills & Technologies
+- **Programming:** Python, C++, Java
+- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX
+- **Simulation:** MATLAB, Unreal Engine, CARLA
+- **Other:** ROS, Docker, Jupyter Notebooks
+
+### 🚀 Projects
+Latest projects I contributed to:
+- **ROME** - Routing Engine handling points sampled from roads
+- **HOUSTON** - Test Drive Control Center incorporating the ROME Routing Engine
+- **Digital Campus Melaten** - Digital Twin Model of RWTH Aachen's research campus
 
 ### Languages
 🇩🇪 Native<br>
