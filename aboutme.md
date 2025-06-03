@@ -19,37 +19,37 @@ Here are some of my favorite projects:
 ## Resume
 ### Working experience
 05|25 - 11|25<br>
-**Master Thesis | AI @ Porsche Engineering**<br>
 🇩🇪 Bietigheim-Bissingen
+**Master Thesis | AI @ Porsche Engineering**<br>
 - AI-based feature extraction of road networks from aerial imagery
 
 09|24 - 04|25<br>
-**Intern | ADAS @ Porsche Engineering**<br>
 🇺🇸 Los Angeles
+**Intern | ADAS @ Porsche Engineering**<br>
 - First employee of the local ADAS department, helping secure major projects
 - Responsible for Routeplanning for an external customer from Silicon Valley
 - Automation of routeplanning for following validation runs with graph theory
 - Starting a software development project and instructed a team on this
 
 10|24 - 09|24<br>
-**Student Research Assistant | Automated Driving @ RWTH**<br>
 🇩🇪 Aachen
+**Student Research Assistant | Automated Driving @ RWTH**<br>
 - AI-based feature extraction of road networks from aerial imagery
 
 ### Education
 04|23 - 11|25<br>
-**M. Sc. Mechanical Engineering & Business Admin**<br>
 🇩🇪 RWTH Aachen
+**M. Sc. Mechanical Engineering & Business Admin**<br>
 - Focusing on Automated Driving + Innovation, Marketing and Entrepreneurship
 
 01|23 - 05|23<br>
-**Semester Abroad**<br>
 🇨🇾 University of Cyprus
+**Semester Abroad**<br>
 - 🇪🇺 Erasmus Programme
 
 10|18 - 10|22<br>
-**B. Sc. Mechanical Engineering & Business Admin**<br>
 🇩🇪 RWTH Aachen
+**B. Sc. Mechanical Engineering & Business Admin**<br>
 - Specialization in Automotive Engineering
 
 ### Languages
