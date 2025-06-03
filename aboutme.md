@@ -15,7 +15,7 @@ Hi there, I am Henry, and inspired by those questions, I decided to leave my lov
 Here are some of my favorite projects:
 - **ROME** - Routing Engine handling points sampled from roads
 - **HOUSTON** - Test Drive Control Center incorporating the ROME Routing Engine
-- 
+- **Digital Campus Melaten** - Digital Twin Model of RWTH Aachen's research campus
 
 ## Resume
 ### Working experience
