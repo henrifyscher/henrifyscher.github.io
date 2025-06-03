@@ -13,9 +13,9 @@ Hi there, I am Henry, and inspired by those questions, I decided to leave my lov
 
 ## 🚀 Projects
 Here are some of my favorite projects:
-- [Project 1](#) - Kurzbeschreibung des Projekts
-- [Project 2](#) - Kurzbeschreibung des Projekts
-- [Mehr Projekte](projects.html)
+- **ROME** - Routing Engine handling points sampled from roads
+- **HOUSTON** - Test Drive Control Center incorporating the ROME Routing Engine
+- 
 
 ## Resume
 ### Working experience
