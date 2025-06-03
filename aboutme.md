@@ -83,7 +83,7 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 
 Some of my favorite projects:
 
-- **ROME** – Routing Engine handling points sampled from roads  
+- **ROME** – Routing Engine handling hundreds of thousands of points sampled from roads  
 - **HOUSTON** – Test Drive Control Center incorporating the ROME Routing Engine 
 - **Digital Campus Melaten** – Digital Twin Model of RWTH Aachen's research campus
 - **Macan electric** - Pre-series quality inspection for the first all-electric version of Porsche's best-selling SUV
