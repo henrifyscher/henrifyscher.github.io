@@ -8,25 +8,6 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 
 <hr style="margin: 1.5em 0;">
 
-## 🔧 Skills & Technologies
-
-- **Programming:** Python, C++, Java  
-- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX  
-- **Simulation:** MATLAB, Unreal Engine, CARLA  
-- **Tools:** ROS, Docker, Jupyter Notebooks  
-
-<hr style="margin: 1.5em 0;">
-
-## 🚀 Projects
-
-Latest projects I contributed to:
-
-- **ROME** – Routing Engine handling points sampled from roads  
-- **HOUSTON** – Test Drive Control Center incorporating the ROME Routing Engine  
-- **Digital Campus Melaten** – Digital Twin Model of RWTH Aachen's research campus  
-
-<hr style="margin: 1.5em 0;">
-
 ## 💼 Resume
 
 ### 🛠️ Working Experience
@@ -67,15 +48,30 @@ Latest projects I contributed to:
 **B. Sc. Mechanical Engineering & Business Administration**  
 - Specialization in Automotive Engineering  
 
-<hr style="margin: 1.5em 0;">
-
-## 🌍 Languages
+### 🌍 Languages
 
 - 🇩🇪 German – Native  
 - 🇪🇸 Spanish – Native (bilingual upbringing)  
 - 🇬🇧 English – Proficient  
 - 🇫🇷 French – Advanced  
 - 🇬🇷 Greek – Basics  
+
+<hr style="margin: 1.5em 0;">
+
+## 🚀 Projects
+
+Latest projects I contributed to:
+
+- **ROME** – Routing Engine handling points sampled from roads  
+- **HOUSTON** – Test Drive Control Center incorporating the ROME Routing Engine  
+- **Digital Campus Melaten** – Digital Twin Model of RWTH Aachen's research campus  
+
+## 🔧 Skills & Technologies
+
+- **Programming:** Python, C++, Java  
+- **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX  
+- **Simulation:** MATLAB, Unreal Engine, CARLA  
+- **Tools:** ROS, Docker, Jupyter Notebooks  
 
 <hr style="margin: 1.5em 0;">
 
