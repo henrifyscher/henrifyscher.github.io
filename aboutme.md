@@ -41,12 +41,13 @@ Here are some of my favorite projects:
 05|25 - 11|25<br>
 🇩🇪 Bietigheim-Bissingen<br>
 **Bachelor Thesis | ADAS Simulation @ Porsche Engineering**
-- Developed an algorithm 
+- Developed an algorithm for procedural generation of 3D simulation environments
+- MATLAB, Houdini, Unreal Engine
 
 ### Education
 04|23 - 11|25<br>
 🇩🇪 RWTH Aachen<br>
-**M. Sc. Mechanical Engineering & Business Admin**
+**M. Sc. Mechanical Engineering & Business Administration**
 - Focusing on Automated Driving + Innovation, Marketing and Entrepreneurship
 
 01|23 - 05|23<br>
@@ -58,7 +59,7 @@ Here are some of my favorite projects:
 
 10|18 - 10|22<br>
 🇩🇪 RWTH Aachen<br>
-**B. Sc. Mechanical Engineering & Business Admin**
+**B. Sc. Mechanical Engineering & Business Administration**
 - Specialization in Automotive Engineering
 
 ### Languages
