@@ -27,8 +27,8 @@ Here are some of my favorite projects:
 🇺🇸 Los Angeles<br>
 **Intern | ADAS @ Porsche Engineering**
 - First employee of the local ADAS department, helping secure major projects
-- Responsible for Routeplanning for an external customer from Silicon Valley
-- Automation of routeplanning for following validation runs with graph theory
+- Responsible for Routeplanning for an external customer's validation run from Silicon Valley
+- Automation of routeplanning for following validation runs with graph theory and Machine Learning
 - Starting a software development project and instructed a team on this
 
 10|24 - 09|24<br>
