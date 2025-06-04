@@ -58,7 +58,7 @@ Hi, I’m Henry. Inspired by these questions, I left my lovely hometown in the H
 <br>
 
 **01/23 – 05/23** 🇨🇾 University of Cyprus  
-**Semester Abroad** – Erasmus Programme  
+**Semester Abroad – Erasmus Programme**
 - AI Entrepreneurship, Greek Language  
 
 <br>
@@ -92,7 +92,7 @@ Some of my favorite projects:
 
 - **Programming:** Python, C++, Java  
 - **Data Science:** Pandas, OpenStreetMap (OSM), NetworkX  
-- **Simulation:** MATLAB, Unreal Engine, CARLA  
+- **Simulation:** MATLAB, Unreal Engine, CARLA, Unity
 - **Tools:** ROS, Docker, Jupyter Notebooks  
 
 <hr style="margin: 1.5em 0;">
