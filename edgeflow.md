@@ -63,4 +63,8 @@ Email: **stefano@edgeflow.systems**
 
 ---
 
+<a href="https://www.aachen.digital">
+  <img src="digihub_badge.png" alt="Digihub Badge" width="100">
+</a>
+
 *EdgeFlow — Route Planning. Touring Complete.*
