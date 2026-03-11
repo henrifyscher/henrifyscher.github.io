@@ -68,3 +68,35 @@ Email: **stefano@edgeflow.systems**
 </a>
 
 *EdgeFlow — Route Planning. Touring Complete.*
+
+Impressum
+
+Henry Fischer
+Kapellenstr. 31
+52066 Aachen
+Deutschland
+
+E-Mail: henry@edgeflow.systems
+
+Datenschutzerklärung
+
+1. Verantwortlicher
+Verantwortlich für die Datenverarbeitung auf dieser Website: Henry Fischer
+
+2. Hosting
+Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. Es kann nicht ausgeschlossen werden, dass personenbezogene Daten auf Servern in den USA verarbeitet werden.
+
+3. Server-Logfiles
+Beim Aufruf der Website können durch den Hostinganbieter technische Informationen verarbeitet werden, insbesondere:
+- IP-Adresse
+- Datum und Uhrzeit des Zugriffs
+- Browsertyp und Betriebssystem
+- Referrer-URL
+
+Die Verarbeitung erfolgt zur Gewährleistung eines stabilen und sicheren Betriebs der Website auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+
+4. Kontaktaufnahme
+Wenn Sie uns per E-Mail kontaktieren, werden die von Ihnen übermittelten Daten zur Bearbeitung der Anfrage gespeichert.
+
+5. Rechte der betroffenen Personen
+Sie haben das Recht auf Auskunft über Ihre gespeicherten personenbezogenen Daten sowie auf Berichtigung, Löschung oder Einschränkung der Verarbeitung. Zudem haben Sie ein Beschwerderecht bei einer Datenschutzaufsichtsbehörde.
