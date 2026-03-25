@@ -71,9 +71,10 @@ Email: **stefano@edgeflow.systems**
 
 Impressum
 
-Henry Fischer
-Kapellenstr. 31
-52066 Aachen
+EdgeFlow Systems (Ein Projekt in Gründung)
+Stefano Cascio
+Jülicher Str. 209q/s
+52070 Aachen
 Deutschland
 
 E-Mail: henry@edgeflow.systems
