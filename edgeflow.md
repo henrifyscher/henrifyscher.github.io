@@ -77,7 +77,7 @@ Jülicher Str. 209q/s
 52070 Aachen
 Deutschland
 
-E-Mail: henry@edgeflow.systems
+E-Mail: stefano@edgeflow.systems
 
 Datenschutzerklärung
 
